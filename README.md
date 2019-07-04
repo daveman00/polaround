@@ -1,0 +1,2 @@
+# polaround
+Django blog project
