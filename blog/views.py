@@ -23,7 +23,6 @@ def blog_category(request, category):
     }
     return render(request, 'blog_category.html', context)
 
-# this part causes the integer categories like (2019,1999) to break
 def blog_detail(request, pk):
     post = Post.objects.get(pk=pk)
 
