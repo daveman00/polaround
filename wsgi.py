@@ -1,5 +1,5 @@
 """
-WSGI config for polaround project.
+WSGI config for portblog project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
