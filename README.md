@@ -1,5 +1,4 @@
-# polaround
-Django blog project
+# portblog
+Django portfolio-blog project
 
-1) Done using venv - Python3 virtual environment
-2) Django 2.2.3
+1) Django 2.2.3
